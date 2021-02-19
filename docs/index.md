@@ -1,4 +1,7 @@
----
----
+# Basic information
+* Name: Bjorn Jacobs
+* Student #: s1030650
+* Program: Master Software Science
 
-Empty first blog index page
+# Table of contents
+* [About Me](about_me.md)
